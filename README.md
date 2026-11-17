@@ -1,4 +1,4 @@
-# Let's Claude Office
+# Allen's Claude Office
 
 把你正在跑的 Claude Code session，變成一座霓虹 3D 辦公室裡的七位 Q 版主管。
 
@@ -7,7 +7,7 @@
 - **工作中**：主管快步走回自己的辦公室，坐下來敲鍵盤。
 - **等你回覆**（要按允許、要回答問題）：主管停在原地，轉頭向你揮手，名牌閃黃字。
 - **閒置**：主管在走廊和庭園裡到處逛。
-- 第 N 個開的 session，坐第 N 位主管：Monday（CEO）、Tuesday（COO）……一直到 Sunday（CHRO）。
+- 第 N 個開的 session，坐第 N 位主管：Allen（CEO）、Tuesday（COO）……一直到 Sunday（CHRO）。
 
 | 技術部 | 執行長室 | 噴水池 |
 | --- | --- | --- |
