@@ -1,0 +1,11 @@
+json
+{
+  "name": "lets-claude-office",
+  "version": "1.0.0",
+  "description": "Let's Claude Office — watch your running Claude Code sessions work in a neon 3D office. Seven rainbow executives, seven cats, one flying cat fountain.",
+  "author": { "name": "allenlee31353" },
+  "homepage": "https://github.com/allenlee31353/lets-claude-office",
+  "repository": "https://github.com/allenlee31353/lets-claude-office",
+  "license": "MIT",
+  "keywords": ["office", "3d", "threejs", "sessions", "status", "hooks", "visualization"]
+}
