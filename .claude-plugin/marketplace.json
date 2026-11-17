@@ -1,0 +1,19 @@
+json
+{
+  "name": "lets-claude-office",
+  "owner": { "name": "allenlee31353" },
+  "metadata": {
+    "description": "A neon 3D office that shows your running Claude Code sessions.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "lets-claude-office",
+      "source": "./",
+      "description": "Watch your running Claude Code sessions work in a neon 3D office.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["office", "3d", "sessions", "status"]
+    }
+  ]
+}
